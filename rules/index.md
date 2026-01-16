@@ -5,6 +5,6 @@ nav_order: 10
 has_children: true
 ---
 
-# Правила QUD Demo Test
+# Правила QUD Test
 
 Выберите одно из правил в меню, чтобы открыть подробности.
