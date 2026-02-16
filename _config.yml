@@ -7,8 +7,8 @@ plugins:
   - jekyll-remote-theme
 
 # ВАЖНО: для project pages baseurl = "/<имя_репозитория>"
-url: "https://qudinfo.github.io"
-baseurl: "/QUD_test_rules"
+url: "https://fx-qud.com"
+baseurl: ""
 
 search_enabled: true
 nav_sort: case_insensitive
