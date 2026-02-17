@@ -8,7 +8,7 @@ plugins:
 
 # ВАЖНО: для project pages baseurl = "/<имя_репозитория>"
 url: "https://fx-qud.com"
-baseurl: ""
+baseurl: "/docs"
 
 search_enabled: true
 nav_sort: case_insensitive
