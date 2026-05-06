@@ -6,9 +6,9 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
 
-# ВАЖНО: для project pages baseurl = "/<имя_репозитория>"
+# Cloudflare Pages + custom domain: сайт публикуется в корне домена
 url: "https://fx-qud.com"
-baseurl: "/docs"
+baseurl: ""
 
 search_enabled: true
 nav_sort: case_insensitive
