@@ -6,9 +6,9 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
 
-# Cloudflare Pages + custom domain: сайт публикуется в корне домена
-url: "https://fx-qud.com"
-baseurl: ""
+# GitHub Pages project site
+url: "https://qudinfo.github.io"
+baseurl: "/QUD_lending"
 
 search_enabled: true
 nav_sort: case_insensitive
